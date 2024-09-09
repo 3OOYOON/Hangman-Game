@@ -1,4 +1,4 @@
-# Here are the files to play hangman
+# Here are the files to play Hangman
 
 ## How to play:
   1. You can run the HG file and play from the terminal
