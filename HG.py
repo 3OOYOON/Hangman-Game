@@ -1,3 +1,5 @@
+#Author: 3OOYOON
+
 import random
 
 dictionaryFile = "phrase.txt"
